@@ -1,4 +1,2 @@
 # hello-world
-repo with training wheels
-
-This is where I am inputing some changes into the "branch" that might possibly soon become the master.
+My first attempt at using Git - tutorial <a href="https://guides.github.com/activities/hello-world/">here</a>
